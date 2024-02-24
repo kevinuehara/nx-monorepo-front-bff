@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "jest.autoRun": { "watch": false },
+  "jest.autoEnable": false,
+
+  "cSpell.diagnosticLevel": "Hint",
+  "i18n-ally.sourceLanguage": "pt",
+  "i18n-ally.displayLanguage": "pt",
+  "i18n-ally.localesPaths": ["**/locales"],
+  "i18n-ally.pathMatcher": "{namespaces}.json",
+  "i18n-ally.keystyle": "nested"
+}
